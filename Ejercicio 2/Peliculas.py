@@ -5,6 +5,7 @@ class peliculas:
 
 catalogo = peliculas
 
-print(f"La pelicula {catalogo.legoMovie} esta disponible")
-print(f"La pelicula {catalogo.pussBoots} esta disponible")
-print(f"La pelicula {catalogo.monja} esta disponible")
+print("Catalogo de peliculas")
+print(f"{catalogo.legoMovie}")
+print(f"{catalogo.pussBoots}")
+print(f"{catalogo.monja}")
